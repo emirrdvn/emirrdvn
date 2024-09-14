@@ -52,7 +52,8 @@
 </div>
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)]
+[![GitHub Streak](https://github-readme-stats-emirrdvn.vercel.app/api?username=emirrdvn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 <div align=center>
   
 </div>
