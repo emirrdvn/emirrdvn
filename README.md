@@ -53,7 +53,7 @@
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
-<img width=390 src="https://github-readme-stats-emirrdvn.vercel.app/api?username=emirrdvn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=radical)
 <div align=center>
   
 </div>
