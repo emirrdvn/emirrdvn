@@ -54,12 +54,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&include_all_commits=true)
-<br/>
 
 
 <div align=center>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true&locale=tr)
 
 </div>
 
