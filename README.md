@@ -50,8 +50,9 @@
   
   <br/><br/><br/>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">⚡ Stats ⚡</h2> <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
 <div align=center>
   
 </div>
