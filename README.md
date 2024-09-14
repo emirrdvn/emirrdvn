@@ -59,7 +59,7 @@
 
 <div align=center>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true)
 
 </div>
 
