@@ -52,13 +52,13 @@
 </div>
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=tr)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&include_all_commits=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true&locale=en)
 
 <div align=center>
     
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true&locale=tr)
+  
 
 </div>
 
