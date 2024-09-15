@@ -59,13 +59,10 @@
 <img style="height: auto; width: 55%;" class="img" src="![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" /></div>
+<img style="height: auto; width: 40%;" class="img" src="[![Anurag's GitHub stats]https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" /></div>
 
 
-<br/><hr/>
 
-
-<br/><hr/>
 <div align=center>
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true&locale=en)
