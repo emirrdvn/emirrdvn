@@ -53,10 +53,18 @@
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
 <br/><hr/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" /></div>
+</div>
+
 <br/><hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)
+![Anurag's GitHub stats]()
 
 <br/><hr/>
 <div align=center>
