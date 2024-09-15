@@ -51,10 +51,12 @@
   <br/><br/><br/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2> <br>
-
+<div align=center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+</div><div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)
 
+</div>
 
 <div align=center>
     
