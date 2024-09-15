@@ -54,11 +54,17 @@
 
 <br/><hr/>
 
+<div align="center" dir="auto" />
+ <img style="max-width: 100%;" src="https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en">
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true" />
+</div>
 
 
-<img style="height: auto; width: 55%;" class="img" src="![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)" />
 
-<img style="height: auto; width: 40%;" class="img" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)" />
+<!---
+![GitHub Streak](https://streak-stats.demolab.com?user=emirrdvn&theme=tokyonight&hide_border=true&locale=en)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirrdvn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&include_all_commits=true)
+-->
 
 
 
