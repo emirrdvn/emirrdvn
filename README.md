@@ -70,7 +70,7 @@
 
 <div align=center>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=css,html&theme=tokyonight&hide_border=true&locale=en)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=scss,css,html&theme=tokyonight&hide_border=true&locale=en)
 
 </div>
 
