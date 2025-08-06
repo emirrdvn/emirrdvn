@@ -71,7 +71,7 @@
 
 <div align=center>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=jupyternotebook,scss,css,html&theme=tokyonight&hide_border=true&locale=en)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrdvn&hide=jupyter%20notebook,scss,css,html&theme=tokyonight&hide_border=true&locale=en)
 
 </div>
 
