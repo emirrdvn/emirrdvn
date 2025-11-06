@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a fon site**
  
- 🌱 I’m currently learning **JavaScript, Laravel, AWS**
+ 
+ 🌱 Currently working with **JavaScript, Php, C# **
 
-💬 Ask me about **Node.js, React, Firebase... or anything **
+💬 Ask me about **anything**
 
 ⚡ Fun fact **Huge FOUNDATION fan**
 
