@@ -12,7 +12,7 @@
  
  
  
- 🌱 Currently working with **JavaScript, Php, C# **
+ 🌱 Currently working with **JavaScript, Php, .Net **
 
 💬 Ask me about **anything**
 
